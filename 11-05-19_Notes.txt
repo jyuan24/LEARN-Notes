@@ -1,0 +1,159 @@
+day 2 - job material, cover letter, tailoring your resume, etc, outlook on job industry, tech recruiter panel - ask questions about what to show off, what doesn't need to be showed off
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/PD-Week/Curriculum.md
+
+THE TECH INDUSTRY NOW & FUTURE
+
+https://drive.google.com/file/d/1aPexgvHxvBnMcWT8QyM54KKlMz7FJE9P/view
+- how timing kinda works...q1 seniors are hired, then they build their team. 2018 echo majority was hired by end of february 2019
+- be involved - do side projects, be part of the community
+- if asked what you expect to be paid, give a range, not a set number
+    - 55k-70k for qa/tech support which is common for learn grads
+    - your desired amount should be either bottom or middle of your range
+- see hackerreport or gallup for some data workforce studies
+- be aware of revature...hiring all over SD, but really just sends you to west virginia for a bootcamp
+
+
+guest speakers recruiters internal/external
+nick lead internal recruiter from Sochi (startup)
+- mob environment
+- starts as tech support mob of 3 for 9 months-a year, then become full stack mob
+- during interviews will ask coding challenges (talking through thoughts is important), emotional intelligence questions
+- don't apply to many positions within compnay. they want to see you know what your skillset is
+- they hire quick, if you pass initial and follow-ups, hired the next week
+- cares about diversity in side proejcts, diversity in our interests, make sure it works, solve real problems and not fluff projects like animal tinder
+- for projects that are simple, you can show it off but just say it was created for learning intentions only
+chelsea external recruiter from proven recruiting - popular recruiting agency in SD
+- specialize in accounting, finance, technology
+- might be important to ask "why is this job open"...helps filter out companies who leave job positions open all the time just to filter resumes but not necessarily a need
+- cares about side projects that works, not weather or tictactoe, and we the creators must care about it
+
+look for Matt Tripoli who was on alumni panel at LeaseLabs has helped hire some 3 4 ppl in last year
+applying through internal website generally better since some companies don't integrate other sites like monster correctly and might not get the application
+
+
+Job Profiles (what to search for)
+- 'web developer' was the standard...much more open now obv but still good to search
+- 'back end developer' very restricted...might be better off searching full stack
+- 'front end developer' can range from strictly front end code. don't get this confused with design. could be just implementing what the design team has created. some companies expect front end developers to also design though so keep an eye out for that.
+- 'full stack developer' varies a lot...very different opinions. very few ppl are truly full stack developers.
+- 'mobile developer' should know react native and swift
+- 'qa engineer' or 'technical support engineer' typically the entry role in our industry...but we'll see on thursday at mindtouch a very non traditional qa who actually leads the tech team...we should ask what the responsibilities are, and what is the growth of the position over time
+- 'content strategist' or 'digital marketer' sometimes will come up with original content for customer to drive their content whether it's youtube or something else
+- 'SCRUM Master/Project Management' great transition roles, mostly project manager that follows ideaology SCRUM which can actually get a certificate for
+- 'DevOps' will be one of the fastest growing in the coming years, but very difficult to hire because hard to have a strong operations background. Jez now on notch 8 is great example.
+- 'data scientist' python is very popular trend for data engineering related, SD is one of fastest growing in the area
+- 'product manager' depends on role...some might be hybrid sales role (tends to be smaller companies like startups), or more so a product designer
+- 'UI designer', 'UX designer', 'digital designer', more for design team
+
+
+we can label ourselves as 'web developer' 'software engineer' 'software developer'. we're not really full stack. mention we're web developers in a full stack coding bootcamp for example.
+recommended job boards - glassdoor, indeed, linkedin
+- indeed - trick is to sometimes scroll to the very last page for fresh jobs with no applicatants..paid for so companies that don't pay won't have their listings at the top
+- linkedin/glassdoor companies are paying $300-500 / week / job to post their jobs...
+- other recommendations - 
+    - dice
+    - angellist (lots of startups / angelfunders)
+    - stackoverflow
+    - vettery
+    - techcrunch
+    - upwork (contractors'/freelancers' dream, hourly rates range $30-50)
+    - internal learn slack board
+    - san diego startups (sign up for their slack channel, their talent channel)
+    - san diego tech hub (same thing, slack)
+    - san diego javascript
+    - SD tech scene (although not updated frequently, but good place to research startup companies)
+    - fresh brewed tech (posts jobs, and also puts out qtrly articles for companies with increased funding which also means they will probably be hiring soon, make connections, ex air space technologies)
+    - see this site for examples https://careersidekick.com/best-tech-job-boards/
+
+-------------------------------------------------------
+
+RESUMES
+
+https://drive.google.com/file/d/1fvzXM9BjlquFlMOWviJohYyn5YGhZX-V/view
+^ geared specifically for tech
+
+3 types - chronological, functional, or combination
+- chronological
+    - good for job seekers for similar positions
+    - students and entry-level
+    - academic resumes
+    - likely what we will be using
+    - good for recruiters, some companies use application tracking systems that will detect chronological resumes
+- combination
+    - good for career-changers and can highlight relevant work experience
+    - ours will kinda be a combination of the chronological and combination resume
+- functional
+    - don't do this. designed for ppl who don't want to seem overqualified (ex CEOs, military transitioners, etc)
+
+zety.com has great career blog, paid resume template site (don't do it!)
+https://zety.com/blog/tailor-your-resume
+- look at their article on tailoring resumes, with focus on web development stuff
+    - highlights things within job posting, and gives tips on how to push those onto resume
+    - profile statements: something like "i am a software developer backed with 5 years of mechanical engineering" or something to try to get past ATS
+
+job descriptions are like wish lists
+- employers really only want 40-50% covered. if they want 5 years exp, divide that in half
+- they will however lead with what's most important to them
+
+what to include in resume
+- prof email
+- summary statement as opposed to objective statemtent - IF you want to include some sort of statement, not necessary
+- not so much "i" or "my", not so much about me. allows employer to envision you doing what you're saying in the professional summary
+- include linkedin & portfolio hyperlinks, not images necessarily cause ATS might not pick it up
+- brand self as developer w/ experience, skillset, summary statement
+- above the fold: summary, languages, projects, experience
+
+LEARN - education or experience?
+- LEARN is a Workforce Development Training Program
+- mention 480 hours of experience, plus another 120 hours through internship
+- mention number of projects too
+
+- numbers add credibility - give stats with specifics
+- accomplishments >> responsibilities
+- include linkedin clean hyperlink on resume
+- look up action verbs list bryan created one in syllabus https://drive.google.com/file/d/12BJRZ1fgbKPaBBdfWw-TfFuDDEXbzzxp/view
+- no need for interests section, meant for high schoolers etc to show interest
+- use of 'community events' to include volunteering, hackathons, etc
+
+resume templates found on https://www.canva.com/templates/search/resumes/
+- if using template, have all resume info ready before using template
+
+--------------------------------------------------------
+
+COVER LETTERS
+
+https://drive.google.com/file/d/1zyrs54163RXwCePCpMYKjlNt1EDpc9q3/view
+- 40% employers say it's most important part of application...
+- was previously required by more ppl because it was to prove you can write..
+
+structure:
+- contact info
+    - old block format not necessary anymore?
+        - employer contact no longer really necessary, but include own still
+    - address not required, but specify area
+    - still need date
+- salutation
+    - 'to whom it may concern' or 'dear hiring manager' is typically fine, no longer need to dig to find exact person
+- first paragraph - why are you writing?
+    - introduction
+        - position, connection (if applicable), express interest, skills (2-3)
+        - companies have their 5 year mission statements and their values/goals...try to make the connection in your intro
+            - can also suggest their list of clients if there's connections there
+- middle paragraph - tell your story, most important paragraph
+    - what you offer
+    - strong connection between your abilities and employer's needs
+    - mention specifically how your skills & experience match the job you're applying for
+    - try to support each statement you make with a specific piece of evidence
+- final paragraph - conclusion
+    - reiterate strengths & interest
+    - thank them for consideration
+    - include info on how to follow-up and when
+- complimentary close
+    - respectfully yours, sincerely, regards
+    - signature handwritten only for hard copies
+PP examples:
+- leeann ho
+    - bryan thinks great, but should've flipped concluding paragraph with intro paragraph due to her talking about her passion, as opposed to what she gets out of the job
+- alex tickle
+    - really strong cover letter, shows path leading to the role
+    - on our resume, can mention long term goals, but pivot it in a way to emphasize continuous learning as opposed to leaving the company

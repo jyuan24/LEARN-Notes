@@ -1,0 +1,70 @@
+day 4 - relationship building, linkedin, networking for the introvert, start-up crawl walking tour (Mindtouch, UE, Instructure/Portfolium)
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/PD-Week/Curriculum.md
+check in, informational interview, LinkedIn workshop, networking, lunch, start-up crawl (Mindtouch, Digital Media Solutions (AKA UE), Instructure/Portfolium)
+
+INFORMATIONAL INTERVIEW
+
+https://drive.google.com/file/d/1Ct86M4aApYEDBdNN_4uSvtkbSLGVv3ui/view
+- opportunity for mentorship, proactive approach to building network, do things before applying to jobs
+- can last 15-20 min discussion, could be all the way up to 2 hours, over the phone, email, slack, etc
+- opportunity for us to interview other person
+- prep, follow through
+- reasons for info interview
+    - do NOT make employment your goal for info interview, moreso relationship building tool
+    - sell self as 'new developer to san diego' to not give off that sort of i'm looking for a job type of vibe
+    - ask if there's anyone you could meet up over coffee and get info over the local community
+    - existing network is best - LEARN alumni
+    - also recommend guest speakers, meetup members
+    - prep 4-5 questions, with potential to turn into easy conversation
+    - be respectful of their time. plan 15-20 minutes initially, and YOU must bring up taking up too much of their time and following up via email or something
+    - ask for network, info of someone else they might be good to talk to in the community
+    - what's your experience, opinion on things like 'ruby is dying' just to spark convo cause js is becoming more prevelant to sd area
+    - why'd you choose where you work? rewarding things/challenging? use of background
+    - easiest way to get job is to show you are contributing member to tech community
+- ask friends & family for connections as well
+
+----------------------------------------------
+
+LinkedIn Workshop
+- linkedin #1 social media for networking, job postings
+- headline
+    - avoid 'aspring' or 'student', can use || pipes to separate different things while keeping short, can include 'seeking career/opportunity/employment'
+    - avoid use of i/my
+- for industry, 'tech' doesn't exist...bryan recommends information services or information technology & services...althought be aware that it might lead you into IT which isn't the same track. we can use 'computer software' or 'design', but recommends computer software
+- summary section
+    - tell your story, very KEY WORD heavy
+    - can be short or long
+    - mention languages, databases, frameworks, etc. 100% searchable
+    - provide github and portfolio links, pdf version of resume
+    - don't make linkedin and resume match exactly, moreso linkedin should be longer, compliment the resume
+    - can include link in about, and that can include resume, recording of you presenting tech talks, demonstrating projects, etc.
+    - can mention something like feel free to reach out at the end
+    - can talk about interests
+- experience section
+    - description of learn
+        - can mention SASS based company or something
+        - can link anything relating you to learn(articles, etc)
+- skills/endorsements
+    - limit 34 skills
+- recommendations
+    - can give recommendations and receive recommendations
+        - all group project should give out recommendations
+    - instructors, admin staff, internship mentors
+- job board
+    - try to avoid Easy Apply unless it's the only option...no formal anything to reach out and connect
+    - for jobs that are 'entry level' but say 10 years xp or something, it could just be mistake from hr, or it could just be saying they want a professional who's worked before, or could also be a way to hire sr position person for cheap, keep in mind of position. if 'sr' position def not for me
+    - premium NOT worth it, BUT bryan suggests using it for 1 month free, use it to it's full potential, then cancel premium
+- networking
+    - meet people who will help you in career, which may include getting a job, but job should not be the main objective, shows no value to the other ppl
+    - sdtechscene.org
+        - startup map, calendar with all events coming up (job fairs, hackathons, meetups, etc)
+            - note that calendar is gimicky...check actual linked site on accurate time/location
+    - SD Ruby is surprisingly very good place to get hired
+        - recruiters go and look for ppl
+        - one of the best ruby meetups in the country
+    - recommended 1-2 meetups/month during job search
+    - for introverts, there's a book that has tips, introverts like to absorb all the info initially then be more comfortable networking the next meetup for example
+
+
+
+

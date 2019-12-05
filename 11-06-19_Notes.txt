@@ -1,0 +1,106 @@
+day 3 - interview technique, informational interviews (how to introduce yourself to companies), behavioural interview (hr qs), technical interview techniques, PORTFOLIOS DUE 9am
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/PD-Week/Curriculum.md
+
+Portfolio Feedback
+- on large screens, try to make icons at bottom left and My Resume buttons larger
+- make intro image longer so the white space at bottom doesn't seem like a mistake
+- add either description to projects on portfolio or have a good description on github describing the project, what it solves, etc
+- add list of skills
+- under projects, can maybe include current portfolio template as one of my projects
+- bryan - "skillsets don't necessarily have to be on resume since they're on resume, but good to mention in the project sections saying 'these are the technologies i built with'"
+- mention location
+- look into copyright at bottom...check the readme
+- make clickable text links more noticeable
+- remove prospective...we technically are web developers now
+
+
+
+How to Ace the "user experience" or tech industry interviews
+
+https://drive.google.com/file/d/1BVYV42B-4tDQIgJMCbAsafQut91M-1e8/view
+- focus on skill vs just education
+- common questions to ask
+    - who will i be meeting with?
+    - is there anything i should bring to the interview?
+    - are there any tests or evaluations that i'll be asked to perform?
+    - where does this interview fit within my overall hiring process?
+- research the organization
+    - website, mission statement, values, overview, products, services, client-base, press releases
+- get perspective
+    - company's standing (note glassdoor typically is bad reviews, unless employees are incentivized to leave good reviews, take w/ grain of salt)
+- develop question
+    - prepare to ask organization or position based on research
+    - be specific, don't ask 'dumb' questions
+- compare skills & qualifications to job requirements
+    - outline knowledge, skills, abilities required, and compare to self
+    - if situation like job description taken off website months later when they respond, mention "send me most up-to-date job description"
+- prepare responses
+    - tell stories, don't get too caught up in the 'right' vs 'wrong' AKA the STAR method
+        https://www.google.com/search?q=star+method&rlz=1C1AWUC_enUS740US784&oq=star+method&aqs=chrome..69i57j0l5.1097j0j7&sourceid=chrome&ie=UTF-8
+    - know what questions will be asked
+    - STAR
+        - 2 minutes in length, w/ energy & enthusiasm
+        - resolving conflict, strengths/weaknesses, etc
+        - Situation
+            - new employee brainstorming meeting, manager cut in before idea was done
+        - Task/Target
+            - alleviate situation, allow everyone's voices to be heard since brainstorming is meant for ideas to be heard
+        - Action
+            - manager, new employee, i all met after the meeting, educate them on civil discourse, set guidelines for these staff meetings how it should be approached
+        - Result
+            - changed ways meetings were done, set aside brainstorming time for meetings for all
+- practice tests/assessments (tech skills)
+    - practice, practice, practice. do as much as possible
+    - 2 possible types
+        - one related to tech stack you'll be working on (simple like take array of #, return odd for example)
+        - one more theoretical, algorithm based (one like fizzbuzz ones)
+    - practice with codewars!
+    - check out Pramp - pairs with real life person and white board together with someone at your level, appointment based
+- what to wear
+    - dress like the team, tech is more business casual, go one step up over how informal the company may be
+    - look presentable, always have 2nd outfit ready to go
+    - IRON CLOTHES
+- bring
+    - notebook
+        - both take notes and notes for you to refer to during interview
+    - hard copies of resume, cover letter, references, codebase, portfolio just in case
+    - BRING LAPTOP, portfolio
+    - OK to ask internship partners for references too even if you're applying to other places
+    
+------------------------------------------------------
+
+WHITEBOARDING CHALLENGES
+- see hand notes
+
+------------------------------------------------------
+
+Continued from previous slideshow
+- pay attention to non-verbal communications
+    - interview begins early before you even arrive, aka emails, etc are part of it
+    - smile, firm handshake, body language, eye contact with everyone, do not unload/move in, try to reduce facial expressions of how you are feeling
+- bring a list
+    - prep list of questions to see if the organization is a good fit, be strategic, don't overask
+    - cover info that hasn't been discussed or to clarify previous topic
+    - if too many questions, be respectful and ask if it's alright to send them email of additional questions
+    - if they bring up benefits package, see if they can redirect you to HR department so you can speak further in detail about
+    - examples:
+        - what do ppl love about working here?
+        - what do you love about working with your dev team?
+        - what do you consider the most important criteria for success in this job?
+        - tell me about the organization's culture (slowly becoming more and more prevalent...instead maybe try something like:
+            - how does your team approach problems?)
+        - how has the position evolved, and how may it change moving forward?
+        - ** what are the next steps in the hiring process?
+- Follow Up!!!
+    - email or handwritten note MUST
+        - thanks, mention names, give tidbit why you enjoyed the visit
+        - end of interview, ask for contact info, best way to follow up
+        - if morning interview, get follow-up out by end of the day
+        - if afternoon interview, get follow-up out by the next morning
+        - if they say contact hiring manager, include something along the lines of please forward to hiring committee
+        - if you bombed tech interview, look up solution, send out how you would've finished question
+        - timeframe based on what they say, some companies may say they'll follow up in a couple weeks, then follow-up in a couple weeks if you don't hear from them in 2 weeks
+
+
+
+

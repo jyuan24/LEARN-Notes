@@ -1,0 +1,363 @@
+Notch 8 - Rob
+initial impression: 4/5
+interview on thursday, 11-22-19
+- about
+    - founded in 2007
+    - 15 employees
+    - come into office 2-3 days/week
+    - remote ppl fly in once a month or so to spend a few days
+    - maintains tree structure
+        - avoids 1 senior, many juniors
+        - more branches, where senior may build initial with junior, then let junior take off with rest of the way
+        - tries to make juniors comfortable so they feel like they're dong what they know as opposed to throwing into a fire
+    - looks for 2-3 : 1 ratio of juniors to senior
+    - weekly one-on-ones with every employee
+        - will be told if you are performing well or poorly
+    - stack
+        - ruby on rails
+        - react native
+    - everyone is 'full stack'
+        - but everyone has a strength in something unique in particular
+        - rob emphasizes letting ppl expand but also grow in their strengths
+    - 'anti-silo'
+        - DON'T contain your projects and limit it to yourselves
+        - reach out to others for knowledge and advice
+        - avoid 'bus factor'
+            - if project lead gets hit by a bus, then what? don't want project to be at a halt
+    - will hire great interns, possibly 2 juniors in next 2-4 months
+        - but obv diff factors play in
+        - rob hates laying off ppl, only fired 1 in last 12 years
+- culture
+    - be on time.
+        - core hours
+            - 10am - 4pm
+            - just let rob know when you'll be out for appointments, etc.
+    - sometimes get overloaded
+    - being "done" at Notch 8
+        - product is not done until it is in production
+        - personally responsible for project status
+            - follow through QA, follow-up with customer
+    - casual atmosphere
+        - interns will need to be here full time
+    - benefits
+        - $650 (mid-high tier) towards medical + vision + dental
+        - 2-3 week pto, accumulating starting week 1
+        - 4 sick days at beginning of year
+        - 401k with % contribution from Notch 8
+- internship experience
+    - goal of 4 interns
+    - daily schedule
+        - 9am - 5pm
+        - will not work on for-profit or external projects, just non-profit/internal projects
+    - non-profit or internal projects
+        - examples:
+            - startup map
+            - RE Manager
+                - rails app with react form
+        - need to be able to show code base for future, so good that it's non-profit
+        - 75% of time
+        - tasks will be broken down as much as possible, won't get a large, vague task and be expected to perform
+    - pair programming
+        - assigned pairs to keep you out of comfort zone
+        - after a couple weeks, will split off and do own work
+        - 25% of time spent with mentor assigned for each person
+            - weekly one-on-ones, talk about notch 8, job search, etc
+            - feel free to bother them whenever. don't let "i shouldn't bother them they're busy" mindset bother you
+    - tech talk / lightning talk
+        - give talk in the community
+        - rob WILL push you on this
+        - one of the most important things you can do for your career
+        - best way to advocate for yourself
+        - 80% of notch8's business is from rob giving talks at sd ruby and meeting ppl afterwards
+
+INTERVIEW
+- LeeAnne, from LEARN 2016
+- slack channel just for interns to use to ask questions
+    - mentor isn't only one helping, everyone is helping
+    - mentor is really just to check in for one on ones
+- encourages asking questions
+- be proactive!
+- no exposure to data, strictly web dev
+
+--------------------------------------------------------------------------------
+
+Zeal Interview - Adam
+initial impression: 3/5
+interview on Friday, 12-06-19
+- about
+    - consultancy, working in teams to work w/ customers' development teams
+    - stack
+        - depends on customer, including ruby, rails, elixir, etc
+    - what makes them successful is how company is run, not just their solutions
+    - company model built around 'how can you build things and make i
+    - has 2 openings at the moment
+        - to adam, he desires to have genuine people who will ask questions, be straight about what they know/don't know, ppl he wants to work with, not feel like the boss of everyone
+    - rigid on 40 hour max / week
+        - but highly encourages being obsesive compulsive about work after work
+        - encourages going down rabbit holes on own time and learning more
+- internship
+    - will not be working on customers' projects
+    - la jolla playhouse
+        - one of largest theaters in country
+        - annual pop tour w/ childrens theatre
+            - goes around to schools
+        - problems:
+            - scheduling is a real pain - school periods are at weird minutes
+            - actor's equity association - hard requirements for overtime, etc
+            - can't go over 8 hours including travel time to different schools
+        - solution:
+            - some software with all the constraints to help them schedule
+        - project over 4 cohorts
+            - delta first, built the app
+            - our cohort will create the logic as the next set of features
+    - not for you IF:
+        - you are interested in being watched over by senior developer or expect a job shadow
+        - you hate react and ruby
+        - you have no interest in the process of development ie you only want to write code
+    - what you get out of it
+        - name will always be associated to code
+        - small group of ppl involved with project and can use it as a portfolio piece
+        - testing knowledge, automated testing
+        - identifying and standardizing way of writing code
+            - code reviews are a big deal
+        - can get the most out of it by just being yourself, don't pretend to be smarter than you are, apply yourself every day
+        - be an expert in things that don't change frequently, not in the things that change frequently
+            - be an expert in the process, don't be an expert in all aspects of react
+        - fundamentals to understand:
+            - relational databases vs non relational
+            - object-oriented programming vs functional
+            - agile vs waterfall project management
+    - goal is to introduce routine to interns
+        - knowledge of entire process to learn about what it's like in the real world
+    - mentorship
+        - assigned in pairs
+        - mentor will be assigned x hours between x:xx - x:xx on xday where they will still do work but pay attention to slack whenever questions pop up
+    - day to day
+        - most team is remote
+        - 8:45am company standup on zoom
+        - 9:00-9:15 project standup
+        - work in pairs
+        - monday - iteration planning meeting - weekly goal/features to target
+        - friday - retrospective - how to adjust, what to correct
+        - 8:30 - 5:30
+
+--------------------------------------------------------------------------------
+
+The 5th Ingredient - Pulkit Agrawal (founder, CEO) - 11-19-19
+initial impression: 4.5/5
+interview on Tuesday, 12-03-19, with Ryan (COO, data sci guy)
+- about
+    - help breweries keep track of beer recipes
+    - PHP based, but will involve bunch of other diff languages
+    - big on 'pay it forward', open to getting coffee, beer, talk
+    - the 5th ingredient - other 4 are water, hops, malt, yeast
+    - Beer30
+        - proprietary software as service
+        - modular solution
+            - scheduling, processes, packaging, distribution, etc
+            - 
+    - does not perfect things at version launch
+        - moreso launch somethiing good enough, then evolve for the next version
+        - read up "the lean startup" by eric ries, minimizes total time through the loop
+    - criterias / priorities for updating version
+        - size of client
+        - how many clients mentioned the change
+        - client specific vs generic solution
+        - willing to pay?
+        - is lack of feature make or break?
+- culture
+    - because it's fast moving and constantly receiving feedback from customers:
+        - not for you if you can't accept the project constantly changing and evolving
+- internship
+    - prep w/ provided PHP book...look over fundamentals
+    - 2 days a week w/ mentor
+    - work is remote from LEARN
+    - flexible hours 9-5, 8-6, whatever
+    - multiple check-ins/week
+    - unpaid, potential to contract afterwards
+    - very fast-paced
+    - prep resources
+        - CS50 course gives good fundamentals of coding, would be good to know to learn to adapt fundamentals to diff languages
+        - Learning php, mysql & javascript textbook, provided via pdf
+    - will be given MVC problem
+        - provided scheduling problem w/ meeting rooms, how to schedule using MVC, then translates over to tank management
+    - track time w/ time & commitments, break down days into segments w/ specific tasks
+    - style guidelines of current team
+        - keep in mind of how company styles, ex where to put curly brackets
+        - how to name variables, being descriptive w/ long variable names
+        - how many comments are involved in code
+        - specific git commit names, and committing often
+    - data analytics?
+        - baby steps, will work with MVC first then can present data analysis ideas and try to implement that in the future
+    - testing?
+        - no big emphasis on testing at the moment
+
+--------------------------------------------------------------------------------
+
+MK Decision - Tim & Austin - 11-20-19
+initial impression: 4/5
+interview on
+- about
+    - fintech company
+    - customizable software to help community credit unions w/ credit card process, also helps bankers on back end
+    - in future, cut out middle man so just mk interacting with customers electronically
+    - fast-paced
+    - JS, react, java, laid on top of Moqui framework
+    - consists of backend, frontend, design, manager
+    - stock:
+        - frontend - gatsby currently, moving towards react, react native, coded with typescript
+        - backend - moqui + ruby, kotlin(which can be converted to js)
+- culture
+    - young atmosphere 20s-30s
+- internship
+    - at MK decision
+    - may offer monthly extension towards end of internship
+    - lateral movement opportunities exist at MK
+    - daily standup
+    - when running into questions, google, then elevate and ask mentor
+        - will have access to contacts through google chat
+    - will involve both front and back end, and will be guided towards what your strengths are
+    - projects
+        - design website, within full stack of moqui even though it's mk's backend language
+    - get comfortable with react, ruby
+    - interview
+        - whiteboard
+    - 9-6 w/ hour lunch, flexible with start/end times, hit 40 hours/week
+
+--------------------------------------------------------------------------------
+
+Ceatus Media Group - Greg & Raymond (no Mike) - 11-21-19
+initial impression: 4/5
+interview on Tues 11-26-19
+- about
+    - 99% ruby on rails, JS, some PHP, Angular maybe, React
+    - use AWS
+    - ~14 years
+    - focus on healthcare
+    - build platforms/apps for clients to cut out middle man
+        - will rake in reviews from all different websites and show all of them in one widget on ceatus site
+        - can see breakdown of reviews over time broken down into categories
+        - social media platform as well for clients
+    - also has portals for potential users to find doctors based on reviews
+    - utilizes full-stack engineers, not 'front-end' or 'back-end' engineers
+    - lots of APIs
+        - twitter, google analytics, salesforce, google ads, etc.
+    - testing implemented in production environment
+    - no pair programming
+    - daily standups - accomplishments & goals
+- culture
+    - 
+-internship
+    - paid
+    - provided work iphone
+    - looking for intern on hire track, this is assessment for that track
+    - interview 1st week of Dec, then they list finalists who then interview on site at PB w/ dev team
+    - will accept ONE intern
+    - weird logic written exam
+    - will be exposed to full stack
+    - looked at as full-time employee
+    - sprints of small projects over few days to start out
+
+--------------------------------------------------------------------------------
+
+PermitDocs - Siggy siggy@permitdocs.com (president, cto, technology business owner) (other person josh design & construction company owner) - 11-22-19
+initial impression: 3/5
+interview on
+- about
+    - new startup (2 years old)
+    - no physical office yet
+    - goal is to make municipal docs & permitting much more easy to use across the country, starting w/ SD
+    - save time from contacting county hall, city hall, etc
+    - permitdocs platform will contain all the info from city halls, county websites, online data, municipal/county/state zoning & building codes
+    - the ONLY existing single-source solution containing all information
+    - target is not ppl already in a home, but ppl investing in building home
+    - 4 groups in target audience
+        - real estate
+        - design
+        - engineering
+        - construction
+    - permitdocs reduces user search time by 50%, saves days/weeks off constructions
+    - offers multiple plans depending on use and features
+    - front end
+        - react, redux
+    - back end
+        - goalline?, elastic search
+    - team
+    - 7 ctos (organization)
+        - 3 full time developers in india
+        - 1 dedicated data science / code parsing person
+        - 1 ui/ux designer that builds out all designs
+    - AWS
+    - currently more manual on inputting info from municipal docs
+        - eventually going more machine learning
+- culture
+    - 
+- internship
+    - looking to potentially bring up intern
+    - remote at LEARN
+    - strategize design and approach for a specified problem, then run with it
+        - example problem: permitdoc postprocesses many information
+            - would really help to have a tool that parses through the data and puts tags on key words instead of using a regular text editor
+    - siggy (specializes in back-end) will be the mentor
+    - will be exposed to full-stack, expected to be very familiar with front-end
+    - has data scientist and looking into machiine learning, but will NOT have exposure to it during internship
+
+--------------------------------------------------------------------------------
+
+EVT Education Vision Technologies - Monal Parmar CEO - wed 11/27
+initial impression: 4/5
+- about
+    - hardware/software platform
+    - located at ucsd qualcom department
+    - workday ~40 hours starts ~9-11 - ~5-8, but will have weeks where more work is required
+    - lateral movement is possible, and you may end up learning it as part of your workday
+    - notetaking device for higher education using ai
+    - 16-80 ft radius visually (big white boards) + audio and puts into note document
+    - notes are clickable and time tagged, can scroll side to side for super wide boards
+    - past beta phase
+    - 6, 12, 18 month goals broken down to 2 wk sprints
+    - ~30-35 clients
+    - expanding team early next year
+    - SAAS business model...12k per class, or 2 mil per large uni
+    - no other companies cover all the criteria they do, and patents on technology
+    - expanding to corporate education & military education in future (130B industry vs 2B industry)
+    - small team of 8 at the moment
+    - 3 areas, all expanding by at least 1-2
+        - embedded device
+            - interviews lined up
+        - machine learning
+            - interviews lined up
+        - web platform
+            - going through resumes now
+    - mainly react, redux frontend, django backend
+    - incorporates testing
+    - machine learning company w/ ai stuff
+- internship
+    - at ucsd
+    - will take 2 interns
+    - may have 2nd round interview
+    - may be exposed to minimal machine learning
+    - projects
+        - live streaming for checking in on device exists (not for students), but want higher framerate, more robust, check lighting etc 
+        - work on interfaces and integration for QA when refining GUIs
+        - enable comment sections
+        - integrating w/ university databases
+        - will potentially have lots of exposure to back-end stuff
+        - add teachers' ability to annotate notes
+        - main priorities is functionality first, then expanding features
+    - day to day
+        - participate in daily scrum, work w/ web team
+    - interview prep
+        - know the fundamentals
+        - whiteboarding
+        - how js, react, redux, etc works
+        - answer qs about experience
+        - side projects
+    - qualities they look for
+        - creativity (problem solving)
+        - technical (familiriaty with languages/frameworks)
+        - alignment with company mission
+        - determination (hard-working)
+        - integrity (moral)
+        - likeable
+        - team player

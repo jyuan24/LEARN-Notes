@@ -1,0 +1,256 @@
+Ruby on Rails
+
+what is it? full stack development - databases, etc
+ruby on rails is a full stack framework optimized for programmer happiness and sustainable productivity. it encourages beautiful code by favoring convention over configuration.
+rails documentation is VERY good, and comments online are also very informative
+
+MVC
+    - M - Model - business logic that pulls records out of database and updates, deletes, creates etc records
+    - V - View - returns records back to user either JSON or html view in our case
+    - C - Controller - in charge of request that comes in and decides what to do w/ info, think middleware stack from yesterday
+
+^ we will be working with MVC to build ruby on rails apps
+
+<!--today learning how to build Rails apps-->
+
+rails is a package of other "gems" that we can install
+
+from video of guy that created rails:
+    - rails makes it much easier to make connection between different components and allows people to spend more time on solving more complex problems rather than setting up
+    - "look at all the things I'm not doing"
+    - rails also makes it super easy to get up to speed on anyone's written rails code. very easy language to understand
+    - "the constraints are liberating"
+
+
+use this link
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/Rails-C&V/rails_intro.md
+issues occur
+https://github.com/LEARNAcademy/cloud9-config
+run this line from above link \curl -sSL https://raw.githubusercontent.com/LEARNAcademy/cloud9-config/master/setup.sh | bash -s
+rails c to access rails console
+
+in terminal:
+rails new myapp -d postgresql -T     -> -d tells it to use postgres. -T says don't install default test framework (we install our own - RSpec)
+cd myapp
+rails db:create
+rails server
+
+gem install rails                                 -> to get started, type into terminal, installs a bunch of stuff
+
+rails new introToRails -d postgresql -T           -> creating new file called introToRails, also installs yarn and a bunch of other files in the package
+
+cd introToRails                                   -> change into the directory
+
+rails --tasks                                     -> optional, but shows all the applications we can use in rails. notice they're all sort of db:something format
+
+rails db:create                                   -> created 2 files: fileName_development, fileName_test. test will clear data out, development will not. we will use development when                                                     developing
+
+rails server                                      -> shows what's running rails. in our case Puma. gives localhost that we can go to.
+
+<!--next, learning M Model in MVC-->
+
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/Rails-M/01intro_active_record.md
+
+will be working on active-record-join-challenges today
+- notice the files...every rails app will have the same directories, making it super easy to understand
+- notice the files in model folder show parent link of ApplicationRecord which is what allows us to work with the database from sql
+
+practice w/ activerecord - activerecord is something that allows us to map over database
+pop of US in SQL
+    SELECT
+        population
+    FROM
+        country
+    WHERE
+        code='USA'
+pop of US in active record react
+    Country.where(code: "USA")
+    
+query record "where" is like WHERE in SQL
+    - ex contact.where(email: 'joe@joe.com'.first_or_create
+
+Country.where(code: "USA")         -> will return an active record, which acts like an array
+Country.where(code: 'USA').first     -> this accesses that first array and allows easier access so we can do the below:
+country.name                         -> this will return the name of country
+country.population                     -> same here. returns population
+
+to test
+rspec spec/models/....intro_to_sql_specs.rb
+rspec :5                     -> will access specific line
+this will return error because code has us.population, and us isn't defined yet. so need a line of us = Country.where(code: 'USA').first
+
+--------------------------------
+
+same file, different problem
+it "can find records via equality comparisons (class" do
+    #list the number of countries in europe that have a SA > 200,000 km^2
+    countries = Country.where(surfacearea: )                    -> this needs to be added to define countries since it's used in below line, but we need to add a greater than comparison.
+    expect(countries.count).to eq(13)
+end
+
+sql version of above written below
+SELECT
+    name
+FROM
+    country
+WHERE
+    surfacearea > 200,000             -> this becomes the string for rails...we'd need to input as 'surfacearea > 200,000'
+    
+going back to the rails:
+it "can find records via equality comparisons (class" do
+    #list the number of countries in europe that have a SA > 200,000 km^2
+    countries = Country.where("surfacearea > 200000")                    -> added sql line as string
+    expect(countries.count).to eq(13)
+end
+
+however this still gives us too big of a number...we need an intersection to narrow down results
+it "can find records via equality comparisons (class" do
+    #list the number of countries in europe that have a SA > 200,000 km^2
+    countries = Country.                                                 -> can insert below here an area = 200_000     underscores act as a comma to make it more clear
+        .where("surfacearea > 200000")                                    -> this can also be written as .where("surfacearea > ?", 200000) or , area if we define area
+        .where(continent: 'Europe')
+    expect(countries.count).to eq(13)
+end
+
+it "can find records via equality comparisons (class" do
+    #list the number of countries in europe that have a SA > 200,000 km^2
+    countries = Country
+        .where("surfacearea > 200000")
+    byebug                                             -> this allows you to interact within your test to figure out how to solve your issue. can type countres.where(continent:'Europe'                                                    ).count in console
+    expect(countries.count).to eq(13)
+end
+
+in console
+type in byebug then run the rspec to get into byebug
+countries.to_sql  -> to debug specific lines
+
+------------------------
+
+describe "Order" do
+    it "can use order (class)" do
+    # which country has the shortest, non-null life expectancy?
+    expect(country.code).to eq('ZMB')
+end
+
+SQL of above:
+SELECT
+    name
+FROM
+    country
+WHERE
+    lifeexpectancy IS NOT NULL
+ORDER BY
+    lifeexpectancy
+LIMIT
+    1
+
+describe "Order" do
+    it "can use order (class)" do
+    # which country has the shortest, non-null life expectancy?
+    country = Country
+        .where(lifeexpectancy: nil)
+       -- .order(:lifeexpectancy).first             -> this orders by lifeexpectancy in ascending order, and order by AND limit 1
+        .order(:lifeexpectancy)                 -> these below 3 lines are replaced by the above
+        .limit(1)                                 -> NVM this should be included...if byebug and check results it comes out weird without this line...
+        .first                                   -> this is needed because otherwise it'll return an array type. also same thing as country[0]
+    expect(country.code).to eq('ZMB')
+end
+
+--------------------
+
+it "can combine order and limit (class)" do
+    # which 10 countries has lowest life expectancy
+    # hint: use pluck
+    countries = Country
+        .order(:lifeexpectancy)
+        .limit(10)
+        
+    expected = ["Zambia", "Mozambique", etc]
+    
+    names = countries.map{|country| country.name}         -> this maps    something?   this works. but will rewrite below
+    expected.map do |country|
+        expect(name).to include(country)
+    end
+end
+
+it "can combine order and limit (class)" do
+    # which 10 countries has lowest life expectancy
+    # hint: use pluck
+    countries = Country
+        .order(:lifeexpectancy)
+        .limit(10)
+        .pluck(:name)                 -> this replaces the use of names, and outputs results into an array, kinda like SELECT name FROM country
+        
+    expected = ["Zambia", "Mozambique", etc]
+    
+--     names = countries.map{|country| country.name}   
+    expected.map do |country|
+        expect(countries).to include(country)
+    end
+end
+
+---------------------------------
+
+describe "combining activerecord and plain old ruby POR class" do
+    it "can simplify 'with' queries" do
+    #of teh smallest 10 countries by pop, which has biggest gnp?
+    countries = Country
+        .order(:population)
+        .limit(10)
+    smallest_biggest = countries.min{|a,b| b.gnp <=> a.gnp}             -> this is ruby code..
+    
+    expect(smallest_biggest.name).to eq("Holy See (Vatican City State)")
+end
+
+-------------------------
+
+to set up in command
+git clone 
+cd into folder
+git bundle
+yarn install --check-files            -> may or may not have to do
+
+-------------------------------------
+
+-------------------------------------
+
+afternoon lecture:
+how do we create our own database?
+how do we create our own models?
+
+active record relationships
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/Rails-M/02rails_activerecord_relationships.md
+
+rails generate                 -> type into command to view all generate models in rails...or rails g
+    model - gives least compared to next two
+    resource - gives model, controller, and views for something. will generate the vertical stack of CRUD create read update delete
+    scaffold - generates everything...cool to play with but don't use because we won't learn anything
+
+rails generate model Contact name:string date_of_birth:date               -> this will generate the migration file and the contact file
+files can be seen in db -> migrate ->
+database is compiled of many tables, in rails assume database cannot interact with one another, but tables can within that database
+create will create an empty table, migration will put it into the database
+migrations will add tables, columns, anything that is needed to change the shape of the model
+
+rails c means rails console to access the console
+
+Contact.create(name: 'Jane', date_of_birth: 20.years.ago)              -> this creates a contact Jane with dob
+jane = contact.
+
+rails g model Phone contact_id:integer number:string             -> creating a table for including contact_id as integer and number as string
+rails db:migrate                                                 -> this migrates the files
+wherever there's a belongs_to relationship, it must have foreign_key
+to let rails know about the info:
+jane = Contact.first
+phone = Phone.create number:''
+
+in the contact and phone .rb files..
+    contact.rb needs has_many :phones         -> creates the relationship, even though phone was the variable rails knows phones is the plural
+    phone.rb needs belongs_to :
+    
+bad_phone.valid?             -> type this into terminal to get a boolean whether this is a valid variable
+    is false because of the belongs_to relationship. relationship was not established, and react assumes you want belongs_to for every phone, so gives back a false.
+
+
+
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/Rails-M/07rails_activerecord_validations.md

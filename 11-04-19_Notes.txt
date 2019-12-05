@@ -1,0 +1,105 @@
+beginning of career week
+
+breakdown
+day 1 - elevator pitch, life map activity, transferable skills
+day 2 - job material, cover letter, tailoring your resume, etc, outlook on job industry, tech recruiter panel - ask questions about what to show off, what doesn't need to be showed off
+day 3 - interview technique, informational interviews (how to introduce yourself to companies), behavioural interview (hr qs), technical interview techniques, PORTFOLIOS DUE 9am
+day 4 - relationship building, linkedin, networking for the introvert, start-up crawl walking tour (Mindtouch, UE, Instructure/Portfolium)
+day 5 - everything else, review, etc, internship process, job search plan, one-on-one w/ bryan, negotiations (tip: if company rescinds, probably means they are tight on finances and you prob don't want to work for them anyways), RESUME DUE 5pm
+
+link to some info in syllabus
+https://github.com/learn-academy-2019-echo/Syllabus/tree/master/PD-Week
+
+life map - see physical notes
+
+
+Elevator pitch
+ - varies 15 sec to 2 min
+ - what are your goals?
+ - like a "tell us about yourself" question, or "about me" section on portfolio, linkedin, etc.
+ - sell yourself, what do you offer?
+ - WHO you are, What you bring
+ - 15 second pitch
+    - example template: "Hi, my name is ____, I'm a ________where I'm doing ______, and now I am looking for a job that will put my skills as a _______ to work!"
+    - my example: "Hi, my name is Joe Yuan. I am a prospective full stack engineer studying at LEARN Academy. I look forward to applying both my newest skills acquired from LEARN Academy along with my past experience as a mechanical engineer to fulfill my career change to eventually become a back end developer."
+        - include hours dedicated, include buzz words
+ - remember to include an "ask" and "closeout" section, offer business card, ask for internship, ask for way to stay in touch, closeout by saying you'll follow up tonight or something
+ - understand who your audience is...recruiter might not know all the key words whereas a senior developer would
+ - 2 minute pitch (can be used as intro emails, interview questions, about me sections, tell your story like lifemap)
+    - include the "why" motivations, passion, drive
+        - what drew you into this field? who do you want to help/inspire? what about the job gets me out of bed in the morning?
+    - what skills/experience do you bring, what have you achieved?
+        - what do you do well? prof accomplishments? transferable skills and identify areas where you excel? what abilities do you continue to strengthen ie essential skill set? (take a look at "gallup" or something like that...there are like 32 or so skills and they'll give you about 5 that are your essentials
+    - current & future career aspirations
+        - where you are going with your career and how they can help you get there. avoid broad goals, be specific.
+    - ask/follow-up
+    - try to use storytelling - people will remember an engaging story
+    - key things:
+        - what exactly do you do?
+        - why do you do it?
+        - what have you achieved?
+        - where are you going with your career/what are your goals?
+        - what do you want out of your pitch?
+    - my example:
+        How are you doing today? I'm Joe Yuan, and I'm a prospective full stack engineer studying at LEARN Academy. The skillset I have acquired during my time at LEARN Academy include JavaScript, React, and Ruby on Rails, and I'm excited to learn how I can apply these skills to contribute to the community.
+        
+                As a child, until I was maybe 6 years old, my grandmother would pretty much lock me in a room once a week and run through a bunch of math problems with me before I was allowed to go out and play. I'm not sure if this is a tried and true method of teaching, but 
+        
+        Growing up, I ended up excelling at math and enjoyed problem solving. By the time I was getting into college, I thought I wanted to be a mechanical engineering based on these skills. I graduated, I worked for 5 years, and then I realized that something needed to change. I was miserable at my job, mainly because it did not feel rewarding. The engineering team would work on issues that we wouldn't hear back about until weeks or months down the road. It felt as if we were putting in all the work and not knowing whether our solutions were keeping our customers happy. I decided to think back at what I enjoyed most in my past experiences, particularly those that involved working with MATLAB and programming robots. That's when I decided I wanted to change careers to eventually become a back end developer. I still get to solve problems and use math from time to time, but it is so much more rewarding and keeps me motivated to work harder.
+        
+        I am looking forward to learning more about going down this career path. Eventually, I'd like to get into back-end developing and data science. If you have any advice or mentorship that would lead me into these fields, that would be greatly appreciated.
+        
+        I appreciate you taking the time to listen to what I have to say. Feel free to find me on LinkedIn or GitHub. In the meantime, I'll send you a follow-up email in the near future.
+
+
+Transferable Skills - found in syllabus
+https://drive.google.com/file/d/1KUGRySyAFHJK9Nws9IqppIeNL-3Njv94/view
+- entry level positions - they care more for transferable skills as opposed to technical skills
+- organizational skills (time management, researching/analytics, financial management, project management, creative thinking)
+- communication skills (listening, writing, face-to-face, conflict resolution, negotiation, nonverbal communication)
+- interpersonal skills (compassion, empathy, optimism, professionalism, teamwork, motivation, integrity
+- leadership siils (prioritization, delegation, people/project management)
+- personal skills (intrea-personal skills, motivation, accountability, goal setting, self confidence, self esteeem.
+- technical skills (html, css, js, react, version control/git, responsive design. automation toold/weg 
+    my skills
+        - creative thinking
+        - research and analytics
+        - listening
+        - conflict resolution
+        - critical thinking
+        - project management
+        
+skills bryan emphasized:
+- problem solving skills - what do i do to solve? i think...
+    - identify root cause
+    - identify any limitations (time, budget, resources, etc.)
+    - brainstorm with team best solution based on limitations
+    - is customer happy with proposed solution
+    - delegate tasks
+    
+    - specifically plan, do, check, act
+        - use personal example or theoretical example
+- critical thinking / analysis - 
+    - use specific examples which helps put it into context
+    - detail oriented, ask questions, etc
+    - what unique skills do I possess that makes me a good critical thinker?
+        - I'm detail-oriented. I dig deep and make sure I have all the details before I proceed with solving whatever problem it is.
+        - I communicate with diverse group of people to gather unique perspectives
+        - researching 
+    - could be 2 sided..
+        - how do you interpret critical thinking
+        - what skillsets help support that
+- communication/collaboration skills - 
+    - what type of communicator am I?
+        - patient, polite, listener, will ask questions for better understanding, agreeable which helps diffusing heated situations, probably mostly indirect communicator unless point isn't getting across, then will be more direct
+        
+
+HW...pick one of my transferable skills from above and think about how I would talk about that in the tech industry
+
+Accomplishment statement / contribution statement
+- key thing on resume is to list accomplishments as opposed to list of duties
+- challenge - action - result formula
+    - what challenge needed to be resolved?
+    - what obstacles did you have to overcome to resolve it?
+    - list the steps you took to resolve the challenge one-by-one
+    - what happened as a result of your actions?

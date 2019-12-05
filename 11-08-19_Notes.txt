@@ -1,0 +1,262 @@
+day 5 - everything else, review, etc, internship process, job search plan, one-on-one w/ bryan, negotiations (tip: if company rescinds, probably means they are tight on finances and you prob don't want to work for them anyways), RESUME DUE 5pm
+9am will be negotions
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/PD-Week/Curriculum.md
+
+---------------------------------------------------
+
+NEGOTIATIONS
+
+https://drive.google.com/file/d/1Ni0PY3b-8D_DYb8Whqd5gZ0FGKZ-gf9_/view
+
+- STYLES OF NEGOTIATING
+
+    - accommodating
+        - just very agreeable, followers, but need to show will to demand more
+    - avoiding
+        - not recommended, essentially avoiding direct conflict and articulating through email for example
+        - might be ok with good email, but still not recommended
+    - collaborating
+        - rob's preferred method
+        - kinda like compromising, but finding other ways to include other solutions, like i'm going to get you this much in 1st qtr and i'll want this bonus, or vaca days, etc
+    - competing
+        - ppl trying to 'win' the negotiation, don't care so much about job but more about the win
+    - compromising
+        - the constant negotiation of finding a happy middle
+
+- STEPS FOR NEGOTIATING
+
+    - PRE-WORK
+
+        - be detailed for negotiation (salary vs hourly) as uncomfortable as it may seem
+        - know the scale of pay
+        - what dimensions are negotiable
+            - vacation, benefits, money, signing bonus, moving expenses, etc
+        - who am i negotiating with
+            - based on talk w/ negotiator, can tell what kind of negotiation you might end up in whether they're competitive, timid, etc
+        - what are my alternatives
+            - if internship offers to extend w/o pay, mention you have another offer but would've loved to stay at that internship company if they could pay
+            - always have other job offers ready
+            - try not to lie about it...
+        - if there is a salary table, try to negotiate alternatives
+            - ex may include govt, schools, companies with salary transparency, etc
+        - don't be too scared to negotiate, companies will rarely rescind offer
+        - why do we negotiate?
+            - from employer side:
+                - company will start with say let's offer 45-55k and start offer at 45k
+                - if hire wants 50 or 55, company will say sure
+                - if hire wants 60+, they'll discuss
+                - basically, the difference is huge because it's also compounded over course of time at company
+                - if you get salary emailed to you, doesn't mean you can't ask to call back to negotiate
+
+    - SET A GOAL
+
+        - accept the fact you don't have much developing background, be reasonable
+        - figure out what the absolute minimum is
+        - write down your goals
+        - set opener smaller than your big dream on less important parts, closer to it on the more important parts
+            - if you really value vacation, negotiate less on salary, more in increase in vacation days
+            - if negotiating with someone competitive, bring more alternatives to what to negotiate to let them shut down alternatives and make them feel like they're 'winning' so you can still end up getting the things you want
+        - what can we negotiate about?
+            - salary
+            - commute assistant (daily commute, work remote, etc)
+                - remote work
+                    - make sure you're getting you're work done
+                    - make sure your coworkers know you're getting you're work done
+                    - trial of short mid-week attempt at remote work
+            - PTO
+            - signing bonus
+            - move assistance (tax deductable for them)
+            - benefits plan?
+                - can say don't need, but adjust salary for example
+            - stock options/shadow stock/shadow options/profit sharing plan/direct stock
+                - public company
+                    - can sell stock whenever but may be limit x months after start
+                - private company
+                    - stock worth nothing, not sellable
+                    - only value to it is if you die, direct inheritence could then sell it
+                    - just a potential ticket to cash in in the future if they were to IPO like a lotto ticket
+                - stock option
+                    - gives right to buy stock at certain price in the future
+                        - to get stock, must pay company to get the stock
+                    - tricky, need to understand it
+                    - watch out for ppl who try to convince you to work for stock options
+
+    - OPENING
+
+        - be bold and direct, but leave room for negotiation, OK to check w/ them to confirm they are ready
+        - rob is almost always 1st to bring up number, helps both sides saves time
+            - if they say yes, it may show they will be accommodating negotiator
+        - start high with 'my expectation is $x / year'
+        
+    - FEARLESS DISCUSSION
+    
+        - remember goals and bottom line
+            - if company offers way below your expectation like 45-55k could be good to say 'my goal is 90k/year, and i see we're far off, but could we start at 60k so we're closer, and should i expect that potential growth in the company in a couple years?'
+        - make it feel like solving a problem together
+        - try not to use VS language
+            - don't use 'if you don't pay me i can't do this'
+            - instead use '
+        - active listening
+            - good body language, repeat things back to confirm
+        - honesty is easier to remember
+        - don't say sorry unless you did something wrong, opens opportunity for others to push back at you
+        - everyone gets a parting gift
+            - think of what person did well, remember it
+
+    - CLOSING
+
+        - time for repair, fix up relationship if things got tense
+        - remind them how excited you are
+        - good to bring up things about themselves if they talked about it earlier
+        - write down result on piece of paper, then send email confirming what was agreed upon
+
+- first to get job, highest paid, is one that HUSTLES
+    - What is hustle?
+        - start job hunting NOW, not when internship starts
+        - 1-2 meetups/week
+        - 10-12 applications & followups / week
+        - reach out to ppl/companies on linkedin
+
+----------------------------------------------------------
+
+https://drive.google.com/file/d/1bW5Ns_H03ILRBRJy9ZSkFAIdQ2eDxP_6/view
+INTERNSHIP PROCESS
+- starts next week
+- first step - company pitch
+    - nov 14 - nov 22
+    - ask questions, like questions at end of interview
+    - rate each company on 1-10 scale
+- internship partner must be able to provide
+    - 4 week full time internship
+    - 80% coding-related, 20% opportunity to check out other avenues outside coding
+    - designated technical mentor
+        - amount of hand-holding time will depend on convo between student and company
+- second step - interview
+    - Notch 8 first ~ 20 min interview
+        - week 8 nov 18 - nov 22
+        - will give great feedback
+    - bring resume
+    - interview w/ 2-3 more companies on site
+        - week 10 dec 2 - dec 6
+    - re-rank companies after interviews
+- matching phase
+    - good pairing, company culture, type of mentorship
+    - internships jan 6 - jan 31, possibly off jan 20 MLK
+    - results friday dec 13
+- internship placement
+    - take advantage of 2 week break to prep
+    - what if you don't like it?
+        - communicate w/ bryan why
+        - don't stop showing up or leave early
+        - they will try to improve the experience
+    - IF something comes up and you will be late/leave early/skip days for interviews, you MUST let BOTH bryan and internship know!
+
+Internship Partners
+- Notch 8
+    - same location
+    - working on startup map
+- Zeal
+    - same location
+    - la jolla playhouse
+    - very high profile project
+    - pro bono
+- the 5th ingredient
+    - remote
+    - php shop
+    - custom software for breweries to track brewing process
+    - no full time opportunity, but potential contract opportunity after
+- permadoc cto sigi
+    - remote
+- mk1 decision
+    - fintech
+    - may offer to extend 1-2 months then into job or support you in job search
+
+------------------------------------------------------------------
+
+JOB SEARCH PLAN
+
+https://drive.google.com/file/d/19rDDHBrQMLduLvqzfpJ8pGysb6wGbx4B/view
+- required job search plan meeting for employment search plan
+- student will not have access to career services UNTIL they complete the meeting
+- designed to keep us accountable for our job search
+
+- weekly hours goal - fulltime/parttime
+    - 20-40 hours/week applying
+
+- skill development
+    - 15-25 hours/week to continue learning
+    - work on 1-2 side projects/month
+    - have project work for related job tech stack
+    - keep updating GitHub
+
+- job search type - targeted vs volume
+    - targeted is good starting out, but quantity ends up being important too
+    - 60-70% should be quality applicantions
+    - try to avg about 1 hour / application
+
+- networking - targeted/open networking
+    - 4-5 informational interviews / month
+    - check-ins w/ existing networks
+    - 1-2 meetups/month
+
+- activity/accountability
+    - bi-weekly check-ins w/ bryan on slack
+
+----------------------------------------------------------------------
+
+TECH TALKS
+
+https://drive.google.com/file/d/1Rau9mgWGntjNUubxflmKY4XEL8XLMrVJ/view
+- short talks focusing on specific technical topic
+- for us, it'll be more like lightning talks ~5 min
+- why do we do it?
+    - great for networking
+    - practice for job interview
+    - if recorded, good way to follow-up interview with via email
+- preparing your presentation
+    - slides
+        - recommended using https://www.slidescarnival.com/
+        - easy to read (color contrasts, font size, etc)
+        - don't cram too much info on a slide, don't put full sentences on slides
+    - practice!
+        - practice runs, mirror, record
+        - don't worry too much for filler words unless it's SUPER excessive...kinda the norm nowadays so it doesn't get noticed as much
+- intro
+    - give background on yourself, why you're interested in your topic, etc
+- codeland/code newbies
+    - great resource from bootcamp grad with great advice on storytelling for good tech talks
+- code doodies great networking community to join and great tips on tech talks
+- storytelling
+    - start with hook: quote, question, challenge or call to action, personal stories, etc
+    - focus on engagement w/ continuous, fluid storyline that's easy to follow
+    - define terminology to make sure everyone understands, knows vocab, acronyms
+- when using code
+    - note resolution, red might be bad
+    - add arrows on image to make it super clear where you're talking about
+- wrapping up
+    - summarize
+    - don't trail off at the end
+    - ask for questions/comments
+    - resource slide
+    - end w/ contact info slide
+- public speaking tips
+    - speak slowwwww
+    - project your voice
+    - over-enunciate - will help you sound more clear
+    - nervousness is normal
+    - ok to use notecards/slide notes, but don't read directly
+- past topics include
+    - design principles 
+    - use of math
+    - regular expressions
+    - ux/ui
+- consider delivering talk at local meetup through sdtechscene.org
+- film tech talk
+    - great way to stand out
+    - let LEARN know ahead of time, not last second
+- last slide
+    - include github, portfolio, linkedin, email, etc
+- one tip - if you get asked something you don't know, admit that, engage a little bit, and offer to follow up via email or something in future after further research
+
+
+
