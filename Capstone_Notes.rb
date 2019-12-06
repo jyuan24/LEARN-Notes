@@ -62,3 +62,27 @@ using HTTParty gem
 
 to be able to clone and start rails in another environment, need to create a new file called master.key and paste our unique key into it 209acb8bfda011ff8268c058f56c980a
 
+-----------------------------------------
+
+DEPLOYING HEROKU
+
+https://github.com/learn-academy-2019-echo/Syllabus/tree/master/heroku
+
+sign up for heroku
+
+working from master branch:
+
+sudo snap install --classic heroku          -> installs heroku into app
+heroku login -i
+heroku create
+git config --list | grep heroku             -> did w/o | grep heroku first
+see notes for more specifics
+
+
+------------------------------------------------------------------------------
+
+working with API to load in contacts
+process
+user login -> get auth code rom linkedin -> get token using auth code -> user can click the contacts they want to add to their app
+
+https://github.com/hexgnu/linkedin/blob/master/EXAMPLES.md
