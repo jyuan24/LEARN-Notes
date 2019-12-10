@@ -5,6 +5,17 @@ react-native : this is the create-react-app for native applications
 npm install -g create-react-native-app
 ^^ works well w/ apple...might not work on windows machine
 
+to start up react app
+in terminal:
+    npm install -g create-react-app
+    create-react-app app_name
+    npm install -g yarn
+    yarn install
+    cd app_name
+    (now need extra step to change webpackHotDevClient.js https://github.com/facebook/create-react-app/pull/8079/commits/9585c26593e18296fe202bfea198130f9d0dbd34)
+    yarn start
+    
+
 create-react-native-app learn-demo <- that's the name
 
 both the above commands will take a while to run the first time
