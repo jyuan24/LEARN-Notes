@@ -75,7 +75,11 @@ working from master branch:
 sudo snap install --classic heroku          -> installs heroku into app
 heroku login -i
 heroku create
+    git remote add heroku https://git.heroku.com/heroku-app-name.git         -> made connection to heroku app, done automatically when heroku create is run, but this is needed when not creating app
 git config --list | grep heroku             -> did w/o | grep heroku first
+heroku config:set RAILS_MASTER_KEY=<your-master-key>
+git push heroku master
+tip: can use heroku run [insert rails commands here]
 see notes for more specifics
 
 
@@ -86,3 +90,59 @@ process
 user login -> get auth code rom linkedin -> get token using auth code -> user can click the contacts they want to add to their app
 
 https://github.com/hexgnu/linkedin/blob/master/EXAMPLES.md
+
+
+--------------------------------------------------------------------------------
+
+TESTING
+notes posted on github: 
+
+RAILS
+
+only test code that you write
+    - in this scenario, we don't have to test anything devise related'
+
+rails g rspec:model User            -> can be super useful...will generate model for User in Rspec
+
+TDD is ideal, but since our code is already written, we will comment out sections and comment back in as a way to still perform red-green refactor. May help uncover some edge cases that were missed prior.
+
+try to test everything individually
+    test model tests in the model
+    test controller tests in the controller
+    exception is when you're testing feature specs where it tests multiple methods'
+
+insert byebug before end of describe User rspec validation
+    user.errors[:name] to see what 
+    error will show you what you probably want to test, then you can insert the code into the rspec test to validate that on top of what you already have
+
+request tests and feature tests (below is only request test)
+    want requests to return 200 status
+    want requests to return list of json users
+    
+    RSpec.describe "Users", type: :request do
+        describe "GET /users" do
+            let!(:user){User.create name: 'Bob', email: 'bob@bobber.com'}       -> ! creates the thing in the database immediately
+            it "works! (now write some real specs)" do
+                get users_path
+                expect(response).to have_http_status(200)       -> here you can resplace 200 with :success if you wanted to
+                expect(response.status).to eq(200)                  -> these are the same, but can't use :success here'
+            end
+            it "returns a list of users" do
+                get users_path
+                users = JSON.parse(response.body)           -> this converts the JSON, stringifies it, then turns it into a ruby hash
+                expect(response)........
+            end
+        end
+    end
+
+for post requests, use post users_path instead
+
+
+JAVASCRIPT
+
+do NOT test a component w/ fetch in it
+test dumb components only
+
+if you use expect .toMatchSnapshot()
+    it will make sure a set of inputs always matches set of outputs
+    snapshots are very easy to set up and very thorough to test
