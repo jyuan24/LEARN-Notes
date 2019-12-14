@@ -78,10 +78,20 @@ heroku create
     git remote add heroku https://git.heroku.com/heroku-app-name.git         -> made connection to heroku app, done automatically when heroku create is run, but this is needed when not creating app
 git config --list | grep heroku             -> did w/o | grep heroku first
 heroku config:set RAILS_MASTER_KEY=<your-master-key>
+git pull heroku master                  -> use this when updating heroku
+git add .
+git commit -m ''
 git push heroku master
-tip: can use heroku run [insert rails commands here]
+heroku logs --tail          -> outputs and tracks everything in your terminal
+tip: can use heroku run [insert rails commands here] ex heroku run rails db:migrate
 see notes for more specifics
 
+when changing heroku name:
+in atom 
+atom .git/config, then change heroku link manually
+in aws
+directory settings to show hidden files
+.git/config , manually change heroku link then save
 
 ------------------------------------------------------------------------------
 
@@ -103,6 +113,10 @@ only test code that you write
     - in this scenario, we don't have to test anything devise related'
 
 rails g rspec:model User            -> can be super useful...will generate model for User in Rspec
+
+bundle add rspec-rails
+bundle exec rails g rspec:request todos
+bundle exec rspec spec
 
 TDD is ideal, but since our code is already written, we will comment out sections and comment back in as a way to still perform red-green refactor. May help uncover some edge cases that were missed prior.
 
@@ -137,6 +151,11 @@ request tests and feature tests (below is only request test)
 
 for post requests, use post users_path instead
 
+rspec spec to run tests
+
+followed this tutorial loosely to build our app...didnt end up using factorygirl/bot
+https://www.nascenia.com/ruby-on-rails-application-testing-using-rspec/
+
 
 JAVASCRIPT
 
@@ -146,3 +165,6 @@ test dumb components only
 if you use expect .toMatchSnapshot()
     it will make sure a set of inputs always matches set of outputs
     snapshots are very easy to set up and very thorough to test
+
+
+remember to move testing gems into development test in gemfile so it's not available to production'
