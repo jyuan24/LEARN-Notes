@@ -1,3 +1,5 @@
+INTERNSHIP PROCESS
+
 Notch 8 - Rob
 initial impression: 4/5
 interview on thursday, 11-22-19
@@ -361,3 +363,63 @@ initial impression: 4/5
         - integrity (moral)
         - likeable
         - team player
+
+
+
+################################################################################
+
+
+
+INTERNSHIPS
+tips, tricks
+
+Monday, Jan 6 - Friday, Jan 31, check w/ company if jan 20th mlk day is open
+dbl check w/ company on work hours (core hours, start/end times, etc)
+LEARN requires 40 hours/week, even if company is 'flexible'
+
+internship policies:
+- weekly check-ins
+    - receive email from bryan friday mornings, respond within 48 hours
+- absences
+    - must be reported asap to both internship mentor and bryan
+- no show
+    - no call/no show means automatic removal (if emergency, have a 24 hour window)
+    - if can't show up, try to let bryan & internship know at least 24 hours in advance
+    - means you don't graduate from learn
+    - also disallows continued career services support
+- remote policies:
+    - located at union coworks and have access during duration
+    - if you want to work elsewhere, 24 hour notification in advance
+        - this includes if you were going to off-site client meeting as part of internship
+    - will be provided desk space upstairs or in LEARN classroom
+    - any of 3 conference rooms upstairs can be reserved, just contact LEARN first
+- open door policy
+    - learn's priority is to make sure interns are safe and supported at all times
+    - reach out to bryan asap if this is the situation, after talking to mentor first
+
+tips & tricks:
+- be on time
+    - prepare clothes etc night before
+    - expect traffic until familiar with pattern
+    - practice run day before to figure out best route
+- brush up on your company
+    - know the basics - mission, values, products/services, clients, etc
+    - tech stack, familiarize with skills for day 1
+- ask questions
+    - rob will challenge interns to be the first to ask question that comes up during internship
+- pack lunch for day one
+    - don't know work culture, what ppl there do for lunch
+- bring one - two forms of id
+    - for paperwork, security clearance, etc.
+- know that your work matters
+    - the work matters, no matter how big/small it is
+- know what you want out of the internship
+    - 2 goals i have for the internship:
+        - i want the exposure to frontend, backend, data, etc. to get a clearer picture of where i want to take my career
+        - i want to feel confident and comfortable enough by the end of the internship to feel like i am truly a part of the team (as opposed to being seen as just 'the intern')
+- be prepared to try and try again
+    - shit happens. learn. try again.
+- don't hesitate to contact bryan
+    - bryan@learnacademy.org
+    - 978-395-1513
+    - during first week of internship, contact chelsea for emergencies (bryan's baby)
