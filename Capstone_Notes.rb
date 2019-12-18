@@ -83,7 +83,7 @@ git add .
 git commit -m ''
 git push heroku master
 heroku logs --tail          -> outputs and tracks everything in your terminal
-tip: can use heroku run [insert rails commands here] ex heroku run rails db:migrate
+heroku run rails db:migrate     ->tip: can use heroku run [insert rails commands here]
 see notes for more specifics
 
 when changing heroku name:
